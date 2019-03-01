@@ -2,11 +2,8 @@
 
 <nav class="menu">
 	<ul> 
-		<li><a href="index.php">Home</a></li>
-		<li><a href="shafieul.php">Shafieul Alam</a></li>
-		<li><a href="yiqun.php">Yiqun Ding</a></li>
-		<li><a href="leo.php">Leo Koblence</a></li>
 
+<li><a href="http://csc174.org/assignment04/manhattan/shafieul.php">Link to original website</a> </li>
 	</ul>
 </nav>
 
